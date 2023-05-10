@@ -1,0 +1,1891 @@
+# Copyright (C) 2022 Patterns In the Cloud LLC
+# This file is distributed under the same license as the Autoship Cloud powered by QPilot plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Autoship Cloud powered by QPilot 2.3.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/autoship-cloud\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-08-04T20:33:27+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: autoship\n"
+
+#. Plugin Name of the plugin
+msgid "Autoship Cloud powered by QPilot"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://autoship.cloud"
+msgstr ""
+
+#. Description of the plugin
+msgid "Autoship Cloud for WooCommerce"
+msgstr ""
+
+#. Author of the plugin
+msgid "Patterns In the Cloud LLC"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://qpilot.cloud"
+msgstr ""
+
+#: src/cart.php:476
+#: src/checkout.php:36
+#: src/deprecated.php:98
+#: src/product-page.php:1129
+#: templates/cart/schedule-options.php:70
+#: templates/product/schedule-options-variable.php:66
+#: templates/product/schedule-options.php:70
+#: templates/scheduled-orders/order-schedule-form.php:58
+msgid "Schedule"
+msgstr ""
+
+#: src/cart.php:483
+#: src/deprecated.php:107
+msgid "Next Order"
+msgstr ""
+
+#: src/coupons.php:6
+msgid "Exclude Autoship"
+msgstr ""
+
+#: src/coupons.php:7
+msgid "Disable this coupon for carts containing Autoship enabled items."
+msgstr ""
+
+#: src/coupons.php:131
+msgid "The supplied coupon does not exist on this order."
+msgstr ""
+
+#: src/coupons.php:152
+#: src/coupons.php:322
+#: src/orders.php:1912
+#: src/orders.php:2240
+#: src/orders.php:2300
+#: src/orders.php:2344
+#: src/orders.php:2415
+#: src/orders.php:2460
+#: src/orders.php:2532
+#: src/orders.php:2577
+#: src/orders.php:2715
+#: src/orders.php:2761
+#: src/orders.php:2818
+#: src/orders.php:3075
+msgid "The supplied order can not be found in QPilot"
+msgstr ""
+
+#: src/coupons.php:153
+#: src/coupons.php:157
+#: src/coupons.php:189
+#: src/coupons.php:258
+#: src/coupons.php:262
+#: src/coupons.php:323
+#: src/coupons.php:327
+#: src/coupons.php:445
+#: src/coupons.php:514
+msgid "Autoship Scheduled Order Coupons"
+msgstr ""
+
+#: src/coupons.php:223
+msgid "The supplied coupon format is invalid.  Please enter a valid code."
+msgstr ""
+
+#: src/coupons.php:241
+msgid "The supplied coupon has already been applied."
+msgstr ""
+
+#: src/coupons.php:257
+msgid "Order #%d can not be found in QPilot"
+msgstr ""
+
+#: src/coupons.php:474
+msgid "The supplied coupon can not be found in QPilot"
+msgstr ""
+
+#: src/coupons.php:475
+#: src/coupons.php:481
+#: src/orders.php:1824
+#: src/orders.php:1830
+#: src/orders.php:1876
+#: src/orders.php:1913
+#: src/orders.php:1919
+#: src/orders.php:2004
+#: src/orders.php:2010
+#: src/orders.php:2108
+#: src/orders.php:2113
+#: src/orders.php:2163
+#: src/orders.php:2170
+#: src/orders.php:2241
+#: src/orders.php:2247
+#: src/orders.php:2301
+#: src/orders.php:2307
+#: src/orders.php:2345
+#: src/orders.php:2351
+#: src/orders.php:2416
+#: src/orders.php:2422
+#: src/orders.php:2461
+#: src/orders.php:2467
+#: src/orders.php:2533
+#: src/orders.php:2539
+#: src/orders.php:2578
+#: src/orders.php:2583
+#: src/orders.php:2590
+#: src/orders.php:2672
+#: src/orders.php:2678
+#: src/orders.php:2716
+#: src/orders.php:2723
+#: src/orders.php:2762
+#: src/orders.php:2768
+#: src/orders.php:2819
+#: src/orders.php:2825
+#: src/orders.php:3045
+#: src/orders.php:3076
+#: src/orders.php:3086
+msgid "Autoship Orders"
+msgstr ""
+
+#: src/coupons.php:560
+#: src/coupons.php:654
+msgid "QPilot Dynamic Coupon generated from Coupon ID #%d."
+msgstr ""
+
+#: src/customers.php:152
+#: src/payments.php:2429
+msgid "There was a problem updating the information on your %s. Additional details: %s"
+msgstr ""
+
+#: src/customers.php:155
+#: src/payments.php:2432
+msgid "Your %s Have been successfully updated."
+msgstr ""
+
+#: src/customers.php:189
+msgid "There was a problem updating the shipping information on your %s. Additional details: %s"
+msgstr ""
+
+#: src/customers.php:202
+msgid "Update Shipping Address information for %s? <a href=\"%s\" tabindex=\"1\" class=\"button wc-forward\">%s</a>"
+msgstr ""
+
+#: src/customers.php:202
+#: src/payments.php:2504
+#: src/payments.php:2505
+msgid "Update"
+msgstr ""
+
+#: src/customers.php:230
+msgid "Update the Shipping Address for all my %s"
+msgstr ""
+
+#: src/customers.php:252
+msgid "Click <a href=\"%s\">here</a> to update your shipping address on all %s"
+msgstr ""
+
+#: src/customers.php:317
+#: src/customers.php:433
+#: src/customers.php:472
+#: src/customers.php:478
+#: src/customers.php:508
+#: src/customers.php:514
+#: src/customers.php:579
+#: src/customers.php:585
+#: src/orders.php:1964
+#: src/orders.php:1970
+msgid "Autoship Customers"
+msgstr ""
+
+#: src/customers.php:471
+#: src/customers.php:507
+#: src/orders.php:1963
+msgid "The supplied customer can not be found in QPilot"
+msgstr ""
+
+#: src/customers.php:477
+msgid "A problem was encountered while attempting to find this customer in QPilot."
+msgstr ""
+
+#: src/customers.php:513
+msgid "A problem was encountered while attempting to delete this customer in QPilot"
+msgstr ""
+
+#: src/customers.php:703
+msgid "Customer Sumaries Data matching the supplied values can not be found in QPilot"
+msgstr ""
+
+#: src/customers.php:704
+#: src/customers.php:710
+msgid "Autoship Customer Summaries"
+msgstr ""
+
+#: src/customers.php:704
+msgid "No QPilot Customer Summaries found."
+msgstr ""
+
+#: src/customers.php:709
+#: src/customers.php:761
+msgid "A problem was encountered while attempting to retrieve customer metrics from QPilot."
+msgstr ""
+
+#: src/customers.php:755
+msgid "Customer Metrics Data matching the supplied values can not be found in QPilot"
+msgstr ""
+
+#: src/customers.php:756
+#: src/customers.php:762
+#: src/customers.php:935
+msgid "Autoship Customer Metrics"
+msgstr ""
+
+#: src/customers.php:756
+msgid "No QPilot Customer Metrics found."
+msgstr ""
+
+#: src/customers.php:762
+msgid "There was a problem when attempting to retrieve customer metrics from QPilot "
+msgstr ""
+
+#: src/customers.php:928
+msgid "Autoship Customer Metrics we're last downloaded for this user on <strong>%s</strong>.<br/><i>Check this option and click on the <strong>Update Profile</strong> button below to refresh the metrics.</i>"
+msgstr ""
+
+#: src/customers.php:930
+msgid "Autoship Customer Metrics do not exist or have not been downloaded for this user.<br/><i>Check this option and click on the <strong>Update Profile</strong> button below to refresh the metrics.</i>"
+msgstr ""
+
+#: src/customers.php:946
+msgid "Refresh Autoship Customer Metrics"
+msgstr ""
+
+#: src/free-shipping.php:19
+msgid "Autoship Free Shipping (Not editable)"
+msgstr ""
+
+#: src/free-shipping.php:20
+msgid "Free shipping for Autoship orders."
+msgstr ""
+
+#: src/free-shipping.php:68
+msgid "Free Shipping"
+msgstr ""
+
+#: src/orders.php:80
+msgid "%s %d"
+msgstr ""
+
+#: src/orders.php:81
+msgid "Scheduled for %s"
+msgstr ""
+
+#: src/orders.php:88
+msgid "Created %s(s) %s"
+msgstr ""
+
+#: src/orders.php:95
+#: src/orders.php:159
+msgid "This order contains Items with associated Schedules and may have produced %s."
+msgstr ""
+
+#: src/orders.php:96
+msgid "This order might have been generated by a %s."
+msgstr ""
+
+#: src/orders.php:144
+msgid "Created by %s <a href=\"%s\">%d</a>"
+msgstr ""
+
+#: src/orders.php:151
+msgid "Created %s(s) <a href=\"%s\">%s</a>"
+msgstr ""
+
+#: src/orders.php:160
+#: src/orders.php:494
+msgid "This order might have been generated by a Scheduled Order."
+msgstr ""
+
+#: src/orders.php:199
+msgid "Remove Scheduled Order IDs"
+msgstr ""
+
+#: src/orders.php:241
+msgid "The following Autoship Scheduled Order IDs are assigned to this WooCommerce Order. Click on the \"Update Scheduled Order ID(s)\" button to change the assigned ids."
+msgstr ""
+
+#: src/orders.php:255
+msgid "Use the Autoship Scheduled Order IDs field below to assign one or more Scheduled Order IDs from QPilot to this Order. Enter more than one id by adding ids separated by a comma."
+msgstr ""
+
+#: src/orders.php:265
+msgid "Scheduled Order IDs"
+msgstr ""
+
+#: src/orders.php:294
+msgid "<h3>Autoship Cloud Warning!</h3><hr/><p><strong><span style=\\\"color:#11a0d2;\\\">Important!</span></strong> Changing the Scheduled Order IDs assigned to a WooCommerce Order can affect reporting.</p>"
+msgstr ""
+
+#: src/orders.php:346
+msgid "Origin"
+msgstr ""
+
+#: src/orders.php:364
+msgid "Ship By Date"
+msgstr ""
+
+#: src/orders.php:479
+msgid "Scheduled Order ID: %d"
+msgstr ""
+
+#: src/orders.php:480
+msgid "Schedule: %s"
+msgstr ""
+
+#: src/orders.php:487
+msgid "Scheduled Order(s): %s"
+msgstr ""
+
+#: src/orders.php:494
+msgid "This order contains Items with associated Schedules and may have produced scheduled orders."
+msgstr ""
+
+#: src/orders.php:1067
+msgid "Autoship Order Data"
+msgstr ""
+
+#: src/orders.php:1726
+msgid "Assigned Autoship Scheduled Order IDs Cleared."
+msgstr ""
+
+#: src/orders.php:1727
+msgid "Autoship Scheduled Order ID(s) <strong>%s</strong> assigned Successfully."
+msgstr ""
+
+#: src/orders.php:1823
+msgid "The current site settings can not be found in QPilot"
+msgstr ""
+
+#: src/orders.php:1898
+#: src/orders.php:2746
+msgid "The Set Scheduled Order items was called Incorrectly"
+msgstr ""
+
+#: src/orders.php:2003
+msgid "There is no next schedule order in QPilot matching the search."
+msgstr ""
+
+#: src/orders.php:2042
+msgid "Order #%d could not be found in QPilot"
+msgstr ""
+
+#: src/orders.php:2043
+#: src/orders.php:2049
+msgid "Autoship Order"
+msgstr ""
+
+#: src/orders.php:2107
+#: src/orders.php:2160
+msgid "Orders could not be found in QPilot"
+msgstr ""
+
+#: src/orders.php:2378
+msgid "The Set Scheduled Order Payment Method was called Incorrectly"
+msgstr ""
+
+#: src/orders.php:2393
+msgid "The supplied payment method can not be found in QPilot"
+msgstr ""
+
+#: src/orders.php:2394
+#: src/orders.php:2400
+#: src/payments.php:1823
+#: src/payments.php:1867
+#: src/payments.php:1910
+#: src/scheduled-orders.php:4238
+msgid "Autoship Payment Methods"
+msgstr ""
+
+#: src/orders.php:2446
+msgid "The Set Scheduled Order Frequency was called Incorrectly"
+msgstr ""
+
+#: src/orders.php:2490
+msgid "The Set Scheduled Order Shipping Address was called Incorrectly"
+msgstr ""
+
+#: src/orders.php:2562
+msgid "The Set Scheduled Order Next occurrence was called Incorrectly"
+msgstr ""
+
+#: src/orders.php:2625
+msgid "The Customer ID and Product ID are both required."
+msgstr ""
+
+#: src/orders.php:2671
+msgid "An order to add these items to was not found in QPilot"
+msgstr ""
+
+#: src/orders.php:2701
+msgid "The Set Scheduled Order Status was called Incorrectly"
+msgstr ""
+
+#: src/orders.php:2804
+msgid "The Add Scheduled Order items was called Incorrectly"
+msgstr ""
+
+#: src/payments.php:2406
+msgid "Invalid payment method."
+msgstr ""
+
+#: src/payments.php:2412
+msgid "You have insufficient rights to make this change."
+msgstr ""
+
+#: src/payments.php:2504
+msgid "Use the newly Added Payment Method for your <strong>%s</strong> as well? <a href=\"%s\" tabindex=\"1\" class=\"button\">%s</a>"
+msgstr ""
+
+#: src/payments.php:2505
+msgid "Use the new Payment Method ( %s ) for your <strong>%s</strong> as well? <a href=\"%s\" tabindex=\"1\" class=\"button\">%s</a>"
+msgstr ""
+
+#: src/payments.php:2599
+msgid "<p><strong><i class=\"autoship_update_all_orders\"></i></strong> Select to apply the payment method to your %s.</p>"
+msgstr ""
+
+#: src/payments.php:3296
+msgid "Autoship Payment Methods Error"
+msgstr ""
+
+#: src/product-page.php:127
+msgid "<hr/><p>There are a total of <strong>%d Scheduled Orders ( %s )</strong> containing %s.<br/><strong>Important!</strong> Changes made to product data that is already synchronized (i.e. changing Product Type, Published Status, Moving to Trash, Deleting Products, etc. ) may <a href=\"%s\">invalidate the product in QPilot</a> and prevent it from processing with Scheduled Orders.</p>"
+msgstr ""
+
+#: src/product-page.php:132
+msgid "<hr/><p><strong><span style=\\\"color:#11a0d2;\\\">Important!</span></strong> Changes made to product data that is already synchronized (i.e. changing Product Type, Published Status, Moving to Trash, Deleting Products, etc. ) may <a href=\"%s\">invalidate the product in QPilot</a> and prevent it from processing with Scheduled Orders.</p>"
+msgstr ""
+
+#: src/product-page.php:174
+#: src/product-page.php:212
+#: src/product-page.php:1256
+#: src/product-page.php:1586
+msgid "Error"
+msgstr ""
+
+#: src/product-page.php:201
+#: src/product-page.php:1263
+msgid "Active"
+msgstr ""
+
+#: src/product-page.php:203
+msgid "<p>This product is currently <strong>Active</strong>.%s"
+msgstr ""
+
+#: src/product-page.php:214
+msgid "<p>Product not synchronized: A problem was encountered while trying to retrieve this Product's Sync Information.  Please confirm your <a href=\"%s\">API connection is healthy</a> and ensure there are no issues with this product in the <a href=\"%s\">Autoship Cloud > Products</a> report.</p>"
+msgstr ""
+
+#: src/product-page.php:220
+msgid "Autoship Product Status: <span class=\"%s %s\">%s</span>"
+msgstr ""
+
+#: src/product-page.php:236
+msgid "Autoship"
+msgstr ""
+
+#: src/product-page.php:306
+#: src/product-page.php:722
+msgid "Autoship Options"
+msgstr ""
+
+#: src/product-page.php:319
+msgid "Activate Product Sync"
+msgstr ""
+
+#: src/product-page.php:320
+msgid "Enable this setting to activate this product for Autoship Cloud Sync."
+msgstr ""
+
+#: src/product-page.php:334
+msgid "Enable Schedule Options"
+msgstr ""
+
+#: src/product-page.php:335
+msgid "Enable this setting to show Autoship Schedule Options on the product page."
+msgstr ""
+
+#: src/product-page.php:348
+msgid "Autoship Checkout Price(%s)"
+msgstr ""
+
+#: src/product-page.php:349
+msgid "Override the product price for autoship checkout only."
+msgstr ""
+
+#: src/product-page.php:350
+#: src/product-page.php:367
+#: src/product-page.php:432
+msgid "(Optional)"
+msgstr ""
+
+#: src/product-page.php:365
+msgid "Autoship Recurring Price(%s)"
+msgstr ""
+
+#: src/product-page.php:366
+msgid "Override the product price for recurring orders only."
+msgstr ""
+
+#: src/product-page.php:385
+#: src/product-page.php:765
+msgid "Autoship Scheduled Order Settings"
+msgstr ""
+
+#: src/product-page.php:386
+msgid "Autoship Scheduled Order settings can be updated in <a target=\"_blank\" href=\""
+msgstr ""
+
+#: src/product-page.php:394
+msgid "Add to Scheduled Order"
+msgstr ""
+
+#: src/product-page.php:396
+msgid " Allow customers to add this product to existing Scheduled Orders."
+msgstr ""
+
+#: src/product-page.php:403
+msgid "Process on Scheduled Orders"
+msgstr ""
+
+#: src/product-page.php:405
+msgid " Allow this product to process on Scheduled Orders. <a target=\"_blank\" href=\"https://support.autoship.cloud/article/441-product-availability-and-stock-status\">Read this</a> before disabling this setting."
+msgstr ""
+
+#: src/product-page.php:421
+#: src/product-page.php:805
+msgid "Autoship Group IDs"
+msgstr ""
+
+#: src/product-page.php:430
+#: src/product-page.php:801
+msgid "Assigned Group IDs"
+msgstr ""
+
+#: src/product-page.php:431
+msgid "Assign one or more group ids. Enter multiple group ids in a comma separated list."
+msgstr ""
+
+#: src/product-page.php:456
+#: src/product-page.php:822
+msgid "Product Data Overrides"
+msgstr ""
+
+#: src/product-page.php:464
+#: src/product-page.php:553
+#: src/product-page.php:644
+msgid "Override Defaults"
+msgstr ""
+
+#: src/product-page.php:466
+#: src/product-page.php:823
+msgid "Select to override the default Product Data in QPilot."
+msgstr ""
+
+#: src/product-page.php:482
+#: src/product-page.php:854
+msgid "Product Title"
+msgstr ""
+
+#: src/product-page.php:483
+#: src/product-page.php:856
+msgid "Enter a custom Product Title for QPilot"
+msgstr ""
+
+#: src/product-page.php:494
+#: src/product-page.php:870
+msgid "Weight unit"
+msgstr ""
+
+#: src/product-page.php:495
+#: src/product-page.php:873
+msgid "Select a Unit of Measurement for Weight"
+msgstr ""
+
+#: src/product-page.php:497
+#: src/product-page.php:514
+msgid "--Select type--"
+msgstr ""
+
+#: src/product-page.php:511
+#: src/product-page.php:908
+msgid "Dimensions Unit"
+msgstr ""
+
+#: src/product-page.php:512
+#: src/product-page.php:911
+msgid "Select a Unit of Measurement for Length"
+msgstr ""
+
+#: src/product-page.php:545
+msgid "Frequency Options"
+msgstr ""
+
+#: src/product-page.php:555
+msgid "Select to override the default frequency options."
+msgstr ""
+
+#: src/product-page.php:571
+#: src/product-page.php:989
+msgid "Frequency Option %d"
+msgstr ""
+
+#: src/product-page.php:577
+#: src/product-page.php:993
+msgid "Frequency Type"
+msgstr ""
+
+#: src/product-page.php:578
+msgid "Select a frequency type"
+msgstr ""
+
+#: src/product-page.php:580
+msgid "--Select frequency type--"
+msgstr ""
+
+#: src/product-page.php:581
+#: src/product-page.php:998
+#: src/utilities.php:376
+msgid "Days"
+msgstr ""
+
+#: src/product-page.php:582
+#: src/product-page.php:999
+#: src/utilities.php:377
+msgid "Weeks"
+msgstr ""
+
+#: src/product-page.php:583
+#: src/product-page.php:1000
+#: src/utilities.php:378
+msgid "Months"
+msgstr ""
+
+#: src/product-page.php:584
+#: src/product-page.php:1001
+#: src/utilities.php:379
+msgid "Day of the week"
+msgstr ""
+
+#: src/product-page.php:585
+#: src/product-page.php:1002
+#: src/utilities.php:380
+msgid "Day of the month"
+msgstr ""
+
+#: src/product-page.php:595
+#: src/product-page.php:1007
+msgid "Frequency"
+msgstr ""
+
+#: src/product-page.php:596
+#: src/product-page.php:597
+#: src/product-page.php:1013
+msgid "Enter a frequency number"
+msgstr ""
+
+#: src/product-page.php:606
+msgid "Display Name"
+msgstr ""
+
+#: src/product-page.php:607
+msgid "Enter a display name for this frequency option"
+msgstr ""
+
+#: src/product-page.php:608
+#: src/product-page.php:1023
+msgid "(Optional) Enter a display name"
+msgstr ""
+
+#: src/product-page.php:626
+msgid "Next Occurrence Options"
+msgstr ""
+
+#: src/product-page.php:646
+msgid "Select to enable options for Next Occurrence."
+msgstr ""
+
+#: src/product-page.php:658
+msgid "Set Next Occurrence Date Relative to Checkout"
+msgstr ""
+
+#: src/product-page.php:659
+msgid "When this product is scheduled for Autoship, set the Next Occurrence date for this product’s Scheduled Order to a specific number of days after checkout."
+msgstr ""
+
+#: src/product-page.php:735
+msgid "Disable Autoship Options for this variation"
+msgstr ""
+
+#: src/product-page.php:750
+msgid "Autoship Checkout Price (%s)"
+msgstr ""
+
+#: src/product-page.php:751
+#: src/product-page.php:757
+#: src/product-page.php:806
+msgid "(optional)"
+msgstr ""
+
+#: src/product-page.php:756
+msgid "Autoship Recurring Price (%s)"
+msgstr ""
+
+#: src/product-page.php:777
+msgid "Enabled to Add to Scheduled Orders"
+msgstr ""
+
+#: src/product-page.php:836
+msgid "Override defaults"
+msgstr ""
+
+#: src/product-page.php:951
+msgid "More Autoship Options"
+msgstr ""
+
+#: src/product-page.php:964
+msgid "Override frequency options"
+msgstr ""
+
+#: src/product-page.php:997
+msgid "--Select a frequency type--"
+msgstr ""
+
+#: src/product-page.php:1017
+msgid "Frequency Display Name"
+msgstr ""
+
+#: src/product-page.php:1066
+msgid "To Create a <strong>Add to Schedule Link</strong> select the product, quantity, Autoship Schedule, and min and/or max cycles then click the Generate Link button.</span"
+msgstr ""
+
+#: src/product-page.php:1067
+msgid "To Create a <strong>Add to Cart Link</strong> select the product, quantity, and Autoship Schedule then click the Generate Link button.</span"
+msgstr ""
+
+#: src/product-page.php:1076
+msgid "Click to Show / Hide the Autoship Link Builder"
+msgstr ""
+
+#: src/product-page.php:1085
+msgid "Autoship Link Builder"
+msgstr ""
+
+#: src/product-page.php:1087
+msgid "The Autoship Link Builder can be used to generate shareable links that allow your customers to add an Autoship product to their cart or to their next Autoship Scheduled Order with a single click. <span class=\"help-text\">To Create an <strong>Add to Schedule Link</strong> select the product, quantity, Autoship Schedule, and min and/or max cycles then click the Generate Link button.</span>"
+msgstr ""
+
+#: src/product-page.php:1095
+msgid "Select A Product, Schedule, & Qty"
+msgstr ""
+
+#: src/product-page.php:1104
+msgid "Select Schedule & Qty"
+msgstr ""
+
+#: src/product-page.php:1117
+msgid "Select a variation"
+msgstr ""
+
+#: src/product-page.php:1139
+msgid "Qty"
+msgstr ""
+
+#: src/product-page.php:1148
+msgid "Add to Next Scheduled Order (Regardless of Frequency)"
+msgstr ""
+
+#: src/product-page.php:1148
+msgid "Enable to add product to the next occurring Scheduled Order. Disable to limit the offer to only the next Scheduled Order matching a specific Frequency and Frequency Type"
+msgstr ""
+
+#: src/product-page.php:1155
+msgid "Select Link Type"
+msgstr ""
+
+#: src/product-page.php:1159
+msgid "Add to Schedule"
+msgstr ""
+
+#: src/product-page.php:1163
+msgid "Add to Cart"
+msgstr ""
+
+#: src/product-page.php:1171
+msgid "Select Cycles"
+msgstr ""
+
+#: src/product-page.php:1174
+msgid "Min"
+msgstr ""
+
+#: src/product-page.php:1178
+msgid "Max"
+msgstr ""
+
+#: src/product-page.php:1189
+msgid "Add One Time Only"
+msgstr ""
+
+#: src/product-page.php:1198
+msgid "Generate Link"
+msgstr ""
+
+#: src/product-page.php:1201
+msgid "Link Copied!"
+msgstr ""
+
+#: src/product-page.php:1201
+msgid "Select the options and click Generate Link"
+msgstr ""
+
+#: src/product-page.php:1204
+msgid "Copy"
+msgstr ""
+
+#: src/product-page.php:1249
+#: src/product-page.php:1269
+msgid "Not Active"
+msgstr ""
+
+#: src/product-page.php:1272
+msgid "Product not Synchronized: Unable to synchronize Product Data due to Invalid Product Type and/or Status."
+msgstr ""
+
+#: src/product-page.php:1276
+#: src/product-page.php:1602
+msgid "Not Available"
+msgstr ""
+
+#: src/product-page.php:1279
+msgid "While this product is currently Active, a problem was encountered while trying to retrieve this Product's Sync Information.  Please confirm your Autoship Connection is healthy and setup correctly."
+msgstr ""
+
+#: src/product-page.php:1306
+msgid "Autoship Status: <span class=\"%s %s\">%s</span>"
+msgstr ""
+
+#: src/product-page.php:1344
+msgid "<h3>Autoship Cloud Warning!</h3>%s"
+msgstr ""
+
+#: src/product-page.php:1384
+#: src/product-page.php:1395
+msgid "Product Type"
+msgstr ""
+
+#: src/product-page.php:1386
+msgid "Total Variations:"
+msgstr ""
+
+#: src/product-page.php:1388
+msgid "Variations In Stock:"
+msgstr ""
+
+#: src/product-page.php:1390
+msgid "Variations Out of Stock:"
+msgstr ""
+
+#: src/product-page.php:1392
+msgid "Total Scheduled Orders:"
+msgstr ""
+
+#: src/product-page.php:1397
+msgid "Stock Status"
+msgstr ""
+
+#: src/product-page.php:1399
+msgid "Total Scheduled Orders"
+msgstr ""
+
+#: src/product-page.php:1420
+msgid "The Product Status does not match between QPilot and WooCommerce. Please confirm your <a href=\"%s\">API connection is healthy</a> and ensure there are no issues with this product in the <a href=\"%s\">Autoship Cloud > Products</a> report."
+msgstr ""
+
+#: src/product-page.php:1423
+msgid "The Product Type does not match between QPilot and WooCommerce. Please confirm your <a href=\"%s\">API connection is healthy</a> and ensure there are no issues with this product in the <a href=\"%s\">Autoship Cloud > Products</a> report."
+msgstr ""
+
+#: src/product-page.php:1508
+msgid "Invalid Product(s)"
+msgstr ""
+
+#: src/product-page.php:1522
+msgid "%d Invalid Product(s)"
+msgstr ""
+
+#: src/product-page.php:1528
+msgid "%d Active Product(s)"
+msgstr ""
+
+#: src/product-page.php:1534
+#: src/product-page.php:1593
+msgid "No Active Product(s)"
+msgstr ""
+
+#: src/product-page.php:1548
+msgid "<p>There are currently <strong>%d Products</strong> actively synchronized with QPilot. Changes made in WooCommerce to these Products and/or any associated Variations will be synchronized with QPilot.</p>"
+msgstr ""
+
+#: src/product-page.php:1556
+#: src/product-page.php:1596
+msgid "<p>There are currently <strong>No Products</strong> actively synchronized with QPilot. Only changes made in WooCommerce to Active Products and/or any associated Variations will be synchronized with QPilot.</p>"
+msgstr ""
+
+#: src/product-page.php:1604
+msgid "<p>A problem was encountered while trying to retrieve Product Sync Information from QPilot. Please confirm your <a href=\"%s\">API connection is healthy</a> and setup correctly."
+msgstr ""
+
+#: src/product-page.php:1614
+msgid "Autoship Status: <span class=\"%s\">%s</span>"
+msgstr ""
+
+#: src/product-page.php:1631
+msgid "Activate Autoship Sync"
+msgstr ""
+
+#: src/product-page.php:1632
+msgid "Deactivate Autoship Sync"
+msgstr ""
+
+#: src/product-page.php:1701
+msgid "<h3>Autoship Cloud Bulk Action</h3><p><strong>%d Products Activated</strong> to synchronize with QPilot.</p>"
+msgstr ""
+
+#: src/product-page.php:1704
+#: src/product-page.php:1746
+msgid "<hr/><p>%d Products were not updated since they were not valid QPilot product types.</p>"
+msgstr ""
+
+#: src/product-page.php:1743
+msgid "<h3>Autoship Cloud Bulk Action</h3><p><strong>%d Products Deactivated</strong> from synchronizing with QPilot.</p>"
+msgstr ""
+
+#: src/product-page.php:1873
+msgid "Autoship Sync Active"
+msgstr ""
+
+#: src/product-page.php:1875
+msgid "Autoship Sync Not Active"
+msgstr ""
+
+#: src/product-page.php:2067
+msgid ": "
+msgstr ""
+
+#: src/product-page.php:2078
+msgid "at checkout"
+msgstr ""
+
+#: src/product-page.php:2081
+msgid "and"
+msgstr ""
+
+#: src/product-page.php:2089
+msgid "on future orders"
+msgstr ""
+
+#: src/products.php:1481
+#: src/products.php:1554
+#: src/products.php:1585
+#: src/products.php:1643
+#: src/products.php:1647
+#: src/products.php:2175
+#: src/products.php:2179
+#: src/products.php:2210
+#: src/products.php:2214
+#: src/products.php:2429
+#: src/products.php:2433
+#: src/products.php:3037
+#: src/products.php:3068
+#: src/products.php:3099
+#: src/products.php:3147
+#: src/products.php:3164
+#: src/products.php:3195
+msgid "Autoship Products"
+msgstr ""
+
+#: src/products.php:1644
+msgid "The supplied product could not be found in your connected QPilot Site ( Site ID: %d )"
+msgstr ""
+
+#: src/products.php:2176
+#: src/products.php:2430
+#: src/products.php:2440
+msgid "The supplied product could not be found in your connected QPilot Site ( Site ID: %d )."
+msgstr ""
+
+#: src/products.php:2201
+msgid "A problem was encountered while trying to retrieve the Product Sync Information for the supplied products.  Please confirm your Autoship Connection is healthy and setup correctly."
+msgstr ""
+
+#: src/products.php:2211
+msgid "The supplied product could not be found in QPilot"
+msgstr ""
+
+#: src/products.php:2215
+#: src/products.php:2434
+msgid "A problem was encountered while trying to retrieve this Product's Sync Information.  Please confirm your Autoship Connection is healthy and setup correctly. Additional Details: <i>%s</i>"
+msgstr ""
+
+#: src/products.php:2222
+msgid "The supplied product(s) could not be found in QPilot"
+msgstr ""
+
+#: src/products.php:2403
+msgid "Autoship Sync information is not available for this product.  Please confirm the product is a valid product type and status."
+msgstr ""
+
+#: src/products.php:2408
+msgid "A problem was encountered while trying to retrieve this Product's Sync Information.  Please confirm your Autoship Connection is healthy and setup correctly."
+msgstr ""
+
+#: src/products.php:2670
+msgid "Last Sync %d Days Ago"
+msgstr ""
+
+#: src/products.php:2689
+msgid "Product not synchronized: Product Type is invalid.<br/>The Product Type of one or more product variations does not match between QPilot and WooCommerce. Please confirm your <a href=\"%s\">API connection is healthy</a> and ensure there are no issues with this product in the <a href=\"%s\">Autoship Cloud > Products</a> report."
+msgstr ""
+
+#: src/products.php:2690
+msgid "Product not synchronized: Product Type is invalid. <br/>The Product Type does not match between QPilot and WooCommerce. Please confirm your <a href=\"%s\">API connection is healthy</a> and ensure there are no issues with this product in the <a href=\"%s\">Autoship Cloud > Products</a> report."
+msgstr ""
+
+#: src/products.php:2715
+msgid "Product not synchronized: Unable to synchronize Stock Status for one or more variations.<br/>Please confirm your <a href=\"%s\">API connection is healthy</a> and ensure there are no issues with this product in the <a href=\"%s\">Autoship Cloud > Products</a> report."
+msgstr ""
+
+#: src/products.php:2716
+msgid "Product not synchronized: Unable to synchronize Stock Level.<br/>Please confirm your <a href=\"%s\">API connection is healthy</a> and ensure there are no issues with this product in the <a href=\"%s\">Autoship Cloud > Products</a> report."
+msgstr ""
+
+#: src/products.php:2736
+msgid "Product not synchronized: Unable to activate this product in QPilot. <br/>Please confirm your <a href=\"%s\">API connection is healthy</a> and ensure there are no issues with this product in the <a href=\"%s\">Autoship Cloud > Products</a> report."
+msgstr ""
+
+#: src/products.php:2738
+msgid "Product not synchronized: Invalid Product Data returned by QPilot. <br/>Please confirm your <a href=\"%s\">API connection is healthy</a> and ensure there are no issues with this product in the <a href=\"%s\">Autoship Cloud > Products</a> report."
+msgstr ""
+
+#: src/products.php:2766
+msgid "Product not synchronized: Product data not found.<br/>One or more variations are Active in QPilot but not found in WooCommerce. Please confirm your <a href=\"%s\">API connection is healthy</a> and ensure there are no issues with this product in the <a href=\"%s\">Autoship Cloud > Products</a> report."
+msgstr ""
+
+#: src/products.php:2771
+msgid "Product not synchronized: Product data not found.<br/>This variation #%d is Active in QPilot but not found in WooCommerce. Please confirm your <a href=\"%s\">API connection is healthy</a> and ensure there are no issues with this product in the <a href=\"%s\">Autoship Cloud > Products</a> report."
+msgstr ""
+
+#: src/products.php:2799
+msgid "Product not synchronized: Invalid Product Data returned by QPilot for one or more variations.<br/> %s Please confirm your <a href=\"%s\">API connection is healthy</a> and ensure there are no issues with this product in the <a href=\"%s\">Autoship Cloud > Products</a> report."
+msgstr ""
+
+#: src/products.php:2800
+msgid "Product not synchronized: Invalid Product Data returned by QPilot.<br/> %s Please confirm your <a href=\"%s\">API connection is healthy</a> and ensure there are no issues with this product in the <a href=\"%s\">Autoship Cloud > Products</a> report."
+msgstr ""
+
+#: src/products.php:2832
+msgid "Product not synchronized: Invalid Product Data returned by QPilot for one or more variations.<br/>Please confirm your <a href=\"%s\">API connection is healthy</a> and ensure there are no issues with this product in the <a href=\"%s\">Autoship Cloud > Products</a> report."
+msgstr ""
+
+#: src/products.php:2846
+msgid "Product not synchronized: %d Active variation(s) not found in QPilot: %s.<br/>Please confirm your <a href=\"%s\">API connection is healthy</a> and ensure there are no issues with this product in the <a href=\"%s\">Autoship Cloud > Products</a> report."
+msgstr ""
+
+#: src/products.php:3047
+msgid "The Supplied Product's data could not be found."
+msgstr ""
+
+#: src/scheduled-orders.php:158
+msgid "Your order started processing on <strong>%s</strong>.  Only the Payment Method can be changed on this order."
+msgstr ""
+
+#: src/scheduled-orders.php:406
+msgid "Subtotal"
+msgstr ""
+
+#: src/scheduled-orders.php:407
+#: src/scheduled-orders.php:443
+msgid "Shipping Total"
+msgstr ""
+
+#: src/scheduled-orders.php:408
+#: src/scheduled-orders.php:464
+#: src/scheduled-orders.php:465
+msgid "Tax"
+msgstr ""
+
+#: src/scheduled-orders.php:409
+msgid "Discount"
+msgstr ""
+
+#: src/scheduled-orders.php:410
+#: src/scheduled-orders.php:699
+msgid "Total"
+msgstr ""
+
+#: src/scheduled-orders.php:482
+msgid "Addt'l Tax & Fees"
+msgstr ""
+
+#: src/scheduled-orders.php:515
+#: src/scheduled-orders.php:528
+#: src/scheduled-orders.php:539
+msgid "Shipping"
+msgstr ""
+
+#: src/scheduled-orders.php:528
+#: src/scheduled-orders.php:5732
+msgid "Refresh Rates"
+msgstr ""
+
+#: src/scheduled-orders.php:539
+#: src/scheduled-orders.php:594
+msgid "Edit"
+msgstr ""
+
+#: src/scheduled-orders.php:568
+msgid "Pause %s"
+msgstr ""
+
+#: src/scheduled-orders.php:569
+msgid "Pause"
+msgstr ""
+
+#: src/scheduled-orders.php:573
+msgid "Resume %s"
+msgstr ""
+
+#: src/scheduled-orders.php:574
+msgid "Resume"
+msgstr ""
+
+#: src/scheduled-orders.php:578
+msgid "Fail %s"
+msgstr ""
+
+#: src/scheduled-orders.php:579
+msgid "Mark as Failed"
+msgstr ""
+
+#: src/scheduled-orders.php:583
+msgid "Mark %s as Pending"
+msgstr ""
+
+#: src/scheduled-orders.php:584
+msgid "Mark as Pending"
+msgstr ""
+
+#: src/scheduled-orders.php:588
+msgid "Delete %s"
+msgstr ""
+
+#: src/scheduled-orders.php:589
+msgid "Delete"
+msgstr ""
+
+#: src/scheduled-orders.php:593
+msgid "Edit / View %s"
+msgstr ""
+
+#: src/scheduled-orders.php:598
+msgid "View %s"
+msgstr ""
+
+#: src/scheduled-orders.php:599
+msgid "View"
+msgstr ""
+
+#: src/scheduled-orders.php:603
+#: src/scheduled-orders.php:604
+msgid "Create %s"
+msgstr ""
+
+#: src/scheduled-orders.php:697
+msgid "Next Date"
+msgstr ""
+
+#: src/scheduled-orders.php:698
+#: templates/scheduled-orders/order-schedule-summary-template.php:56
+msgid "Status"
+msgstr ""
+
+#: src/scheduled-orders.php:700
+msgid "Actions"
+msgstr ""
+
+#. translators: %s: Quantity.
+#: src/scheduled-orders.php:932
+msgid "%s quantity"
+msgstr ""
+
+#: src/scheduled-orders.php:935
+#: templates/scheduled-orders/order-ajax-add-item-form.php:93
+#: templates/scheduled-orders/order-items-form.php:45
+#: templates/scheduled-orders/order-items-form.php:136
+#: templates/scheduled-orders/order-items-template.php:39
+#: templates/scheduled-orders/order-items-template.php:112
+msgid "Quantity"
+msgstr ""
+
+#: src/scheduled-orders.php:945
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: src/scheduled-orders.php:1867
+msgid "Invalid or Missing %s Item Information."
+msgstr ""
+
+#: src/scheduled-orders.php:1921
+#: src/scheduled-orders.php:1957
+#: src/scheduled-orders.php:2007
+#: src/scheduled-orders.php:2046
+#: src/scheduled-orders.php:2223
+#: src/scheduled-orders.php:2267
+msgid "Invalid or Expired Call."
+msgstr ""
+
+#: src/scheduled-orders.php:2180
+msgid "%s #%d was successfully created."
+msgstr ""
+
+#: src/scheduled-orders.php:2432
+#: src/scheduled-orders.php:2564
+msgid "The supplied coupon is invalid or does not exist."
+msgstr ""
+
+#: src/scheduled-orders.php:2443
+msgid "The supplied coupon is expired or does not exist."
+msgstr ""
+
+#: src/scheduled-orders.php:2449
+msgid "Invalid Minimum Cycles for this coupon."
+msgstr ""
+
+#: src/scheduled-orders.php:2453
+msgid "Invalid Maxium Cycles for this coupon."
+msgstr ""
+
+#: src/scheduled-orders.php:2457
+msgid "Invalid Minimum Amount for this coupon."
+msgstr ""
+
+#: src/scheduled-orders.php:2469
+msgid "The supplied coupon is not valid for your country."
+msgstr ""
+
+#: src/scheduled-orders.php:2480
+msgid "The supplied coupon is not valid for your Postcode."
+msgstr ""
+
+#: src/scheduled-orders.php:2491
+msgid "The supplied coupon is not valid for your State."
+msgstr ""
+
+#: src/scheduled-orders.php:2502
+msgid "The supplied coupon is not valid for your City."
+msgstr ""
+
+#: src/scheduled-orders.php:2521
+#: src/scheduled-orders.php:2582
+msgid "The supplied coupon discount type is invalid."
+msgstr ""
+
+#: src/scheduled-orders.php:2591
+msgid "The supplied coupon is no longer valid."
+msgstr ""
+
+#: src/scheduled-orders.php:2605
+msgid "This coupon can not be used more than %d times."
+msgstr ""
+
+#: src/scheduled-orders.php:2621
+msgid "The supplied coupon is expired."
+msgstr ""
+
+#: src/scheduled-orders.php:2630
+#: src/scheduled-orders.php:2637
+msgid "This product is not valid for the supplied coupon."
+msgstr ""
+
+#: src/scheduled-orders.php:2643
+msgid "The supplied product is not valid or no longer exists."
+msgstr ""
+
+#: src/scheduled-orders.php:2648
+msgid "The supplied coupon is not valid for products on sale."
+msgstr ""
+
+#: src/scheduled-orders.php:2661
+msgid "The supplied coupon is not valid for this products categories."
+msgstr ""
+
+#: src/scheduled-orders.php:2709
+msgid "The supplied coupon is not valid."
+msgstr ""
+
+#: src/scheduled-orders.php:2763
+#: src/scheduled-orders.php:2872
+msgid "The supplied link is no longer valid or has expired."
+msgstr ""
+
+#: src/scheduled-orders.php:2929
+msgid "The supplied discount link is no longer valid or has expired."
+msgstr ""
+
+#: src/scheduled-orders.php:3033
+msgid "The following Shipping Address fields are required and missing or are invalid: %s."
+msgstr ""
+
+#: src/scheduled-orders.php:3074
+msgid "The selected Shipping Address country field is invalid."
+msgstr ""
+
+#: src/scheduled-orders.php:3161
+msgid "One or more of the entered Shipping Address fields are invalid."
+msgstr ""
+
+#: src/scheduled-orders.php:3519
+msgid "Insufficient rights to perform this action."
+msgstr ""
+
+#: src/scheduled-orders.php:3525
+msgid "The supplied Action is invalid."
+msgstr ""
+
+#: src/scheduled-orders.php:3532
+msgid "A problem was encountered while trying to update the %s."
+msgstr ""
+
+#: src/scheduled-orders.php:3533
+msgid "The %s was successfully updated."
+msgstr ""
+
+#: src/scheduled-orders.php:3543
+msgid "The %s could not be updated since the supplied action could not be processed."
+msgstr ""
+
+#: src/scheduled-orders.php:3597
+msgid "A problem was encountered deleting the %s."
+msgstr ""
+
+#: src/scheduled-orders.php:3598
+msgid "The %s was successfully deleted."
+msgstr ""
+
+#: src/scheduled-orders.php:3640
+msgid "A problem was encountered updating the %s's Status."
+msgstr ""
+
+#: src/scheduled-orders.php:3641
+msgid "The status for %s was successfully updated."
+msgstr ""
+
+#: src/scheduled-orders.php:3705
+msgid "A problem was encountered updating the %s's Shipping Address."
+msgstr ""
+
+#: src/scheduled-orders.php:3706
+msgid "The shipping address for %s was successfully updated."
+msgstr ""
+
+#: src/scheduled-orders.php:3759
+msgid "The %s's Frequency was updated successfully, however, there was a problem updating the Next Occurrence Date."
+msgstr ""
+
+#: src/scheduled-orders.php:3760
+msgid "A problem was encountered updating the %s's Next occurrence Date."
+msgstr ""
+
+#: src/scheduled-orders.php:3785
+msgid "A problem was encountered updating the %s's schedule."
+msgstr ""
+
+#: src/scheduled-orders.php:3786
+msgid "The schedule for %s was successfully updated."
+msgstr ""
+
+#: src/scheduled-orders.php:3946
+#: src/scheduled-orders.php:3977
+msgid "A problem was encountered updating the %s's items."
+msgstr ""
+
+#: src/scheduled-orders.php:3947
+#: src/scheduled-orders.php:3978
+msgid "The items for %s were successfully updated."
+msgstr ""
+
+#: src/scheduled-orders.php:3953
+msgid "A problem was encountered Adding the new %s's items."
+msgstr ""
+
+#: src/scheduled-orders.php:3954
+msgid "The items for %s were successfully added."
+msgstr ""
+
+#: src/scheduled-orders.php:4024
+msgid "A problem was encountered updating the %s's Payment Method."
+msgstr ""
+
+#: src/scheduled-orders.php:4025
+msgid "The payment method for %s was successfully updated."
+msgstr ""
+
+#: src/scheduled-orders.php:4072
+msgid "A problem was encountered updating the %s's preferred Shipping Rate."
+msgstr ""
+
+#: src/scheduled-orders.php:4073
+msgid "The preferred shipping rate for %s was successfully updated."
+msgstr ""
+
+#: src/scheduled-orders.php:4105
+msgid "A problem was encountered removing the %s item."
+msgstr ""
+
+#: src/scheduled-orders.php:4106
+msgid "The item was successfully removed from %s."
+msgstr ""
+
+#: src/scheduled-orders.php:4124
+msgid "Coupons are currently not Allowed."
+msgstr ""
+
+#: src/scheduled-orders.php:4135
+msgid "The Supplied Coupon is not Valid."
+msgstr ""
+
+#: src/scheduled-orders.php:4154
+msgid "A problem was encountered validating and applying the coupon."
+msgstr ""
+
+#: src/scheduled-orders.php:4155
+msgid "The coupon was successfully added to %s."
+msgstr ""
+
+#: src/scheduled-orders.php:4188
+msgid "A problem was encountered removing the coupon."
+msgstr ""
+
+#: src/scheduled-orders.php:4189
+msgid "The coupon was successfully removed from %s."
+msgstr ""
+
+#: src/scheduled-orders.php:4222
+msgid "A problem was encountered refreshing the %s."
+msgstr ""
+
+#: src/scheduled-orders.php:4223
+msgid "The Scheduled Order data for %s was successfully refreshed."
+msgstr ""
+
+#: src/scheduled-orders.php:4581
+#: src/scheduled-orders.php:4586
+#: src/shortcodes.php:263
+msgid "Error %1$s: %2$s"
+msgstr ""
+
+#: src/scheduled-orders.php:4653
+msgid "Invalid %s Display"
+msgstr ""
+
+#: src/scheduled-orders.php:4654
+msgid "A problem was encountered while trying to display the %s. Please refresh the page and try again."
+msgstr ""
+
+#: src/scheduled-orders.php:4722
+#: src/scheduled-orders.php:4801
+msgid "404 %s Not Found"
+msgstr ""
+
+#: src/scheduled-orders.php:4723
+#: src/scheduled-orders.php:4802
+msgid "%s #%s could not be found or is invalid. Please check the %s number and try again."
+msgstr ""
+
+#: src/scheduled-orders.php:5160
+msgid "1 time only."
+msgstr ""
+
+#: src/scheduled-orders.php:5163
+msgid "%d times only."
+msgstr ""
+
+#: src/scheduled-orders.php:5194
+msgid "Out of Stock"
+msgstr ""
+
+#: src/scheduled-orders.php:5626
+msgid "Add New Payment Method"
+msgstr ""
+
+#: src/scheduled-orders.php:5649
+msgid "Cancel Edit Payment Method"
+msgstr ""
+
+#: src/scheduled-orders.php:5649
+msgid "Edit Payment Method"
+msgstr ""
+
+#: src/scheduled-orders.php:5682
+msgid "Cancel Edit Schedule"
+msgstr ""
+
+#: src/scheduled-orders.php:5682
+msgid "Edit Schedule"
+msgstr ""
+
+#: src/scheduled-orders.php:5713
+msgid "Cancel"
+msgstr ""
+
+#: src/scheduled-orders.php:5797
+msgid "<a href=\"#\" class=\"activate-action slim-autoship-action\" data-toggle-text=\"%s\" data-target=\".autoship-edit-scheduled-order-shipping-address-form\">%s</a>"
+msgstr ""
+
+#: src/scheduled-orders.php:5797
+msgid "Cancel Edit Shipping Address"
+msgstr ""
+
+#: src/scheduled-orders.php:5797
+msgid "Update your shipping address."
+msgstr ""
+
+#: src/scheduled-orders.php:5874
+msgid "An issue was encountered while trying to retrieve the available products. <br/>Additional Details: "
+msgstr ""
+
+#: src/scheduled-orders.php:5929
+msgid "Autoship Native UI Missing or Invalid Product"
+msgstr ""
+
+#: src/scheduled-orders.php:6013
+msgid "Error Adding Product Due to Invalid Call."
+msgstr ""
+
+#: src/scheduled-orders.php:6038
+msgid "Error Adding Product Due to Invalid Call. <br/>Additional Details: "
+msgstr ""
+
+#: src/scheduled-orders.php:6074
+msgid "Click Update Items to Save your %s and see your new total amount."
+msgstr ""
+
+#: src/scheduled-orders.php:6133
+msgid "<span class=\"action-request\">Are you sure you want to Delete %s #%d?</span> <a class=\"confirm-action\" data-notice-wrapper=\"%s\" href=\"%s\">Confirm</a> or <a class=\"cancel-action\" data-notice-wrapper=\"%s\" href=\"%s\">Cancel</a>"
+msgstr ""
+
+#: src/scheduled-orders.php:6173
+#: src/scheduled-orders.php:6197
+#: templates/scheduled-orders/orders-row-notice-template.php:43
+msgid "Notice"
+msgstr ""
+
+#: src/shipping.php:36
+msgid "First name"
+msgstr ""
+
+#: src/shipping.php:42
+msgid "Last name"
+msgstr ""
+
+#: src/shipping.php:48
+msgid "Company name"
+msgstr ""
+
+#: src/shipping.php:55
+msgid "Country"
+msgstr ""
+
+#: src/shipping.php:61
+msgid "Street address"
+msgstr ""
+
+#: src/shipping.php:62
+msgid "House number and street name"
+msgstr ""
+
+#: src/shipping.php:68
+msgid "Apartment, suite, unit etc. (optional)"
+msgstr ""
+
+#: src/shipping.php:74
+msgid "Town / City"
+msgstr ""
+
+#: src/shipping.php:81
+msgid "State / County"
+msgstr ""
+
+#: src/shipping.php:87
+msgid "Postcode / ZIP"
+msgstr ""
+
+#: src/shortcodes.php:130
+#: src/shortcodes.php:170
+msgid "No %s found or insufficient rights."
+msgstr ""
+
+#: src/shortcodes.php:142
+msgid "No %s found."
+msgstr ""
+
+#: src/utilities.php:611
+msgid "Every %d days"
+msgstr ""
+
+#: src/utilities.php:615
+msgid "Every %d weeks"
+msgstr ""
+
+#: src/utilities.php:619
+msgid "Every %d months"
+msgstr ""
+
+#: src/utilities.php:625
+msgid "Sunday"
+msgstr ""
+
+#: src/utilities.php:626
+msgid "Monday"
+msgstr ""
+
+#: src/utilities.php:627
+msgid "Tuesday"
+msgstr ""
+
+#: src/utilities.php:628
+msgid "Wednesday"
+msgstr ""
+
+#: src/utilities.php:629
+msgid "Thursday"
+msgstr ""
+
+#: src/utilities.php:630
+msgid "Friday"
+msgstr ""
+
+#: src/utilities.php:631
+msgid "Saturday"
+msgstr ""
+
+#: src/utilities.php:634
+msgid "Every %s"
+msgstr ""
+
+#: src/utilities.php:640
+msgid "The %dth of every month"
+msgstr ""
+
+#: src/utilities.php:644
+msgid "The %d%s of every month"
+msgstr ""
+
+#: src/utilities.php:649
+msgid "%s:%d"
+msgstr ""
+
+#: templates/cart/schedule-options.php:42
+#: templates/product/schedule-options-variable.php:39
+#: templates/product/schedule-options.php:42
+msgid "One-time Purchase"
+msgstr ""
+
+#: templates/product/schedule-options-variable.php:70
+msgid "Loading..."
+msgstr ""
+
+#: templates/scheduled-orders-cart/schedule-cart.php:12
+#: templates/scheduled-orders-cart/schedule-cart.php:14
+msgid "Add to %s"
+msgstr ""
+
+#: templates/scheduled-orders-cart/schedule-cart.php:33
+msgid "Change Schedule"
+msgstr ""
+
+#: templates/scheduled-orders-cart/schedule-cart.php:38
+msgid "Next Order:"
+msgstr ""
+
+#: templates/scheduled-orders-cart/schedule-cart.php:44
+msgid "Schedule next order"
+msgstr ""
+
+#: templates/scheduled-orders/order-address-form.php:37
+msgid "Edit Shipping Address"
+msgstr ""
+
+#: templates/scheduled-orders/order-address-form.php:56
+#: templates/scheduled-orders/order-schedule-form.php:90
+msgid "Update Schedule"
+msgstr ""
+
+#: templates/scheduled-orders/order-address-form.php:56
+msgid "Update Shipping Address"
+msgstr ""
+
+#: templates/scheduled-orders/order-address-template.php:55
+msgid "Billing Address"
+msgstr ""
+
+#: templates/scheduled-orders/order-address-template.php:67
+#: templates/scheduled-orders/order-address-template.php:84
+msgid "Update your address in <a href=\"%s\">My Account</a>."
+msgstr ""
+
+#: templates/scheduled-orders/order-address-template.php:72
+msgid "Shipping Address"
+msgstr ""
+
+#: templates/scheduled-orders/order-address-template.php:76
+msgid "<strong><em>No Shipping Address Assigned</em></strong>"
+msgstr ""
+
+#: templates/scheduled-orders/order-ajax-add-item-form.php:54
+#: templates/scheduled-orders/order-items-form.php:80
+#: templates/scheduled-orders/order-items-form.php:268
+msgid "Remove this item"
+msgstr ""
+
+#: templates/scheduled-orders/order-ajax-add-item-form.php:60
+#: templates/scheduled-orders/order-items-form.php:89
+#: templates/scheduled-orders/order-items-template.php:65
+msgid "Thumbnail"
+msgstr ""
+
+#: templates/scheduled-orders/order-ajax-add-item-form.php:74
+#: templates/scheduled-orders/order-items-form.php:44
+#: templates/scheduled-orders/order-items-form.php:103
+#: templates/scheduled-orders/order-items-template.php:38
+msgid "Product"
+msgstr ""
+
+#: templates/scheduled-orders/order-ajax-add-item-form.php:115
+#: templates/scheduled-orders/order-items-form.php:46
+#: templates/scheduled-orders/order-items-form.php:160
+#: templates/scheduled-orders/order-items-template.php:40
+#: templates/scheduled-orders/order-items-template.php:122
+msgid "Price"
+msgstr ""
+
+#: templates/scheduled-orders/order-error-template.php:31
+msgid "A problem was encountered while trying to display %s #%1$s"
+msgstr ""
+
+#: templates/scheduled-orders/order-error-template.php:40
+msgid "%s #%1$s"
+msgstr ""
+
+#: templates/scheduled-orders/order-header-template.php:33
+msgid "%s #%2$s"
+msgstr ""
+
+#: templates/scheduled-orders/order-items-action-form.php:28
+msgid "Update Items"
+msgstr ""
+
+#: templates/scheduled-orders/order-items-coupon-action-form.php:31
+msgid "Coupon:"
+msgstr ""
+
+#: templates/scheduled-orders/order-items-coupon-action-form.php:32
+msgid "Coupon Code"
+msgstr ""
+
+#: templates/scheduled-orders/order-items-coupon-action-form.php:34
+msgid "Apply coupon"
+msgstr ""
+
+#: templates/scheduled-orders/order-items-form.php:199
+msgid "Add"
+msgstr ""
+
+#: templates/scheduled-orders/order-items-form.php:209
+msgid "Add a Product"
+msgstr ""
+
+#: templates/scheduled-orders/order-items-template.php:79
+msgid "product"
+msgstr ""
+
+#: templates/scheduled-orders/order-items-template.php:146
+msgid "Applied Coupon Codes:"
+msgstr ""
+
+#: templates/scheduled-orders/order-no-items-template.php:28
+msgid "Add a Product to your %s or choose an option below:"
+msgstr ""
+
+#: templates/scheduled-orders/order-no-items-template.php:28
+msgid "Add a Product to your %s using the Add a Product drop down."
+msgstr ""
+
+#: templates/scheduled-orders/order-no-items-template.php:37
+msgid "No items currently scheduled."
+msgstr ""
+
+#: templates/scheduled-orders/order-payment-form.php:41
+msgid "Payment Method"
+msgstr ""
+
+#: templates/scheduled-orders/order-payment-form.php:82
+msgid "Update Payment Method"
+msgstr ""
+
+#: templates/scheduled-orders/order-payment-method-summary-template.php:34
+msgid "Payment Method: "
+msgstr ""
+
+#: templates/scheduled-orders/order-schedule-form.php:78
+msgid "Next Occurrence"
+msgstr ""
+
+#: templates/scheduled-orders/order-schedule-summary-template.php:34
+msgid "Next occurrence is on"
+msgstr ""
+
+#: templates/scheduled-orders/order-schedule-summary-template.php:35
+msgid "Next occurrence would be on"
+msgstr ""
+
+#: templates/scheduled-orders/order-schedule-summary-template.php:38
+msgid "item(s) currently scheduled for "
+msgstr ""
+
+#: templates/scheduled-orders/order-schedule-summary-template.php:39
+msgid "item(s) currently paused but originally scheduled for "
+msgstr ""
+
+#: templates/scheduled-orders/order-shipping-rate-form.php:42
+msgid "Preferred Shippping Rate"
+msgstr ""
+
+#: templates/scheduled-orders/order-shipping-rate-form.php:89
+msgid "Update Shipping Method"
+msgstr ""
+
+#: templates/scheduled-orders/orders-template.php:82
+msgctxt "hash before scheduled order number"
+msgid "#"
+msgstr ""
+
+#. translators: 1: formatted order total 2: total order items
+#: templates/scheduled-orders/orders-template.php:95
+msgid "%1$s for %2$s item"
+msgid_plural "%1$s for %2$s items"
+msgstr[0] ""
+msgstr[1] ""

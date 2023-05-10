@@ -1,0 +1,164 @@
+2023-03-21T06:46:44+00:00 CRITICAL Uncaught Error: Class "WPO\WC\PDF_Invoices\Documents\Order_Document_Methods" not found in /homepages/21/d738916443/htdocs/woop/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/documents/class-wcpdf-invoice.php:19
+Stack trace:
+#0 /homepages/21/d738916443/htdocs/woop/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/class-wcpdf-documents.php(57): include()
+#1 /homepages/21/d738916443/htdocs/woop/wp-includes/class-wp-hook.php(308): WPO\WC\PDF_Invoices\Documents->init()
+#2 /homepages/21/d738916443/htdocs/woop/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#3 /homepages/21/d738916443/htdocs/woop/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /homepages/21/d738916443/htdocs/woop/wp-settings.php(617): do_action()
+#5 /homepages/21/d738916443/htdocs/woop/wp-config.php(98): require_once('/homepages/21/d...')
+#6 /homepages/21/d738916443/htdocs/woop/wp-load.php(50): require_once('/homepages/21/d...')
+#7 /homepages/21/d738916443/htdocs/woop/wp-admin/admin-ajax.php(22): require_once('/homepages/21/d...')
+#8 {main}
+  thrown in /homepages/21/d738916443/htdocs/woop/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/documents/class-wcpdf-invoice.php on line 19
+
+2023-03-21T06:46:44+00:00 CRITICAL Uncaught Error: Class "WPO\WC\PDF_Invoices\Documents\Order_Document_Methods" not found in /homepages/21/d738916443/htdocs/woop/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/documents/class-wcpdf-invoice.php:19
+Stack trace:
+#0 /homepages/21/d738916443/htdocs/woop/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/class-wcpdf-documents.php(57): include()
+#1 /homepages/21/d738916443/htdocs/woop/wp-includes/class-wp-hook.php(308): WPO\WC\PDF_Invoices\Documents->init()
+#2 /homepages/21/d738916443/htdocs/woop/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#3 /homepages/21/d738916443/htdocs/woop/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /homepages/21/d738916443/htdocs/woop/wp-settings.php(617): do_action()
+#5 /homepages/21/d738916443/htdocs/woop/wp-config.php(98): require_once('/homepages/21/d...')
+#6 /homepages/21/d738916443/htdocs/woop/wp-load.php(50): require_once('/homepages/21/d...')
+#7 /homepages/21/d738916443/htdocs/woop/wp-admin/admin-ajax.php(22): require_once('/homepages/21/d...')
+#8 {main}
+  thrown in /homepages/21/d738916443/htdocs/woop/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/documents/class-wcpdf-invoice.php on line 19
+
+2023-03-21T06:46:45+00:00 CRITICAL Uncaught Error: Class "WPO\WC\PDF_Invoices\Documents\Order_Document_Methods" not found in /homepages/21/d738916443/htdocs/woop/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/documents/class-wcpdf-invoice.php:19
+Stack trace:
+#0 /homepages/21/d738916443/htdocs/woop/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/class-wcpdf-documents.php(57): include()
+#1 /homepages/21/d738916443/htdocs/woop/wp-includes/class-wp-hook.php(308): WPO\WC\PDF_Invoices\Documents->init()
+#2 /homepages/21/d738916443/htdocs/woop/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#3 /homepages/21/d738916443/htdocs/woop/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /homepages/21/d738916443/htdocs/woop/wp-settings.php(617): do_action()
+#5 /homepages/21/d738916443/htdocs/woop/wp-config.php(98): require_once('/homepages/21/d...')
+#6 /homepages/21/d738916443/htdocs/woop/wp-load.php(50): require_once('/homepages/21/d...')
+#7 /homepages/21/d738916443/htdocs/woop/wp-admin/admin.php(34): require_once('/homepages/21/d...')
+#8 /homepages/21/d738916443/htdocs/woop/wp-admin/edit.php(10): require_once('/homepages/21/d...')
+#9 {main}
+  thrown in /homepages/21/d738916443/htdocs/woop/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/documents/class-wcpdf-invoice.php on line 19
+
+2023-03-21T06:47:08+00:00 CRITICAL Uncaught Error: Class "WPO\WC\PDF_Invoices\Documents\Order_Document_Methods" not found in /homepages/21/d738916443/htdocs/woop/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/documents/class-wcpdf-invoice.php:19
+Stack trace:
+#0 /homepages/21/d738916443/htdocs/woop/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/class-wcpdf-documents.php(57): include()
+#1 /homepages/21/d738916443/htdocs/woop/wp-includes/class-wp-hook.php(308): WPO\WC\PDF_Invoices\Documents->init()
+#2 /homepages/21/d738916443/htdocs/woop/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#3 /homepages/21/d738916443/htdocs/woop/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /homepages/21/d738916443/htdocs/woop/wp-settings.php(617): do_action()
+#5 /homepages/21/d738916443/htdocs/woop/wp-config.php(98): require_once('/homepages/21/d...')
+#6 /homepages/21/d738916443/htdocs/woop/wp-load.php(50): require_once('/homepages/21/d...')
+#7 /homepages/21/d738916443/htdocs/woop/wp-admin/admin-ajax.php(22): require_once('/homepages/21/d...')
+#8 {main}
+  thrown in /homepages/21/d738916443/htdocs/woop/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/documents/class-wcpdf-invoice.php on line 19
+
+2023-03-21T06:47:09+00:00 CRITICAL Uncaught Error: Class "WPO\WC\PDF_Invoices\Documents\Order_Document_Methods" not found in /homepages/21/d738916443/htdocs/woop/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/documents/class-wcpdf-invoice.php:19
+Stack trace:
+#0 /homepages/21/d738916443/htdocs/woop/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/class-wcpdf-documents.php(57): include()
+#1 /homepages/21/d738916443/htdocs/woop/wp-includes/class-wp-hook.php(308): WPO\WC\PDF_Invoices\Documents->init()
+#2 /homepages/21/d738916443/htdocs/woop/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#3 /homepages/21/d738916443/htdocs/woop/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /homepages/21/d738916443/htdocs/woop/wp-settings.php(617): do_action()
+#5 /homepages/21/d738916443/htdocs/woop/wp-config.php(98): require_once('/homepages/21/d...')
+#6 /homepages/21/d738916443/htdocs/woop/wp-load.php(50): require_once('/homepages/21/d...')
+#7 /homepages/21/d738916443/htdocs/woop/wp-admin/admin-ajax.php(22): require_once('/homepages/21/d...')
+#8 {main}
+  thrown in /homepages/21/d738916443/htdocs/woop/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/documents/class-wcpdf-invoice.php on line 19
+
+2023-03-21T07:04:05+00:00 CRITICAL Uncaught Error: Class "WPO\WC\PDF_Invoices\Documents\Order_Document_Methods" not found in /homepages/21/d738916443/htdocs/woop/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/documents/class-wcpdf-invoice.php:19
+Stack trace:
+#0 /homepages/21/d738916443/htdocs/woop/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/class-wcpdf-documents.php(57): include()
+#1 /homepages/21/d738916443/htdocs/woop/wp-includes/class-wp-hook.php(308): WPO\WC\PDF_Invoices\Documents->init()
+#2 /homepages/21/d738916443/htdocs/woop/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#3 /homepages/21/d738916443/htdocs/woop/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /homepages/21/d738916443/htdocs/woop/wp-settings.php(617): do_action()
+#5 /homepages/21/d738916443/htdocs/woop/wp-config.php(98): require_once('/homepages/21/d...')
+#6 /homepages/21/d738916443/htdocs/woop/wp-load.php(50): require_once('/homepages/21/d...')
+#7 /homepages/21/d738916443/htdocs/woop/wp-blog-header.php(13): require_once('/homepages/21/d...')
+#8 /homepages/21/d738916443/htdocs/woop/index.php(17): require('/homepages/21/d...')
+#9 {main}
+  thrown in /homepages/21/d738916443/htdocs/woop/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/documents/class-wcpdf-invoice.php on line 19
+
+2023-03-21T07:04:05+00:00 CRITICAL Uncaught Error: Class "WPO\WC\PDF_Invoices\Documents\Order_Document_Methods" not found in /homepages/21/d738916443/htdocs/woop/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/documents/class-wcpdf-invoice.php:19
+Stack trace:
+#0 /homepages/21/d738916443/htdocs/woop/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/class-wcpdf-documents.php(57): include()
+#1 /homepages/21/d738916443/htdocs/woop/wp-includes/class-wp-hook.php(308): WPO\WC\PDF_Invoices\Documents->init()
+#2 /homepages/21/d738916443/htdocs/woop/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#3 /homepages/21/d738916443/htdocs/woop/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /homepages/21/d738916443/htdocs/woop/wp-settings.php(617): do_action()
+#5 /homepages/21/d738916443/htdocs/woop/wp-config.php(98): require_once('/homepages/21/d...')
+#6 /homepages/21/d738916443/htdocs/woop/wp-load.php(50): require_once('/homepages/21/d...')
+#7 /homepages/21/d738916443/htdocs/woop/wp-blog-header.php(13): require_once('/homepages/21/d...')
+#8 /homepages/21/d738916443/htdocs/woop/index.php(17): require('/homepages/21/d...')
+#9 {main}
+  thrown in /homepages/21/d738916443/htdocs/woop/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/documents/class-wcpdf-invoice.php on line 19
+
+2023-03-21T07:04:05+00:00 CRITICAL Uncaught Error: Class "WPO\WC\PDF_Invoices\Documents\Order_Document_Methods" not found in /homepages/21/d738916443/htdocs/woop/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/documents/class-wcpdf-invoice.php:19
+Stack trace:
+#0 /homepages/21/d738916443/htdocs/woop/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/class-wcpdf-documents.php(57): include()
+#1 /homepages/21/d738916443/htdocs/woop/wp-includes/class-wp-hook.php(308): WPO\WC\PDF_Invoices\Documents->init()
+#2 /homepages/21/d738916443/htdocs/woop/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#3 /homepages/21/d738916443/htdocs/woop/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /homepages/21/d738916443/htdocs/woop/wp-settings.php(617): do_action()
+#5 /homepages/21/d738916443/htdocs/woop/wp-config.php(98): require_once('/homepages/21/d...')
+#6 /homepages/21/d738916443/htdocs/woop/wp-load.php(50): require_once('/homepages/21/d...')
+#7 /homepages/21/d738916443/htdocs/woop/wp-blog-header.php(13): require_once('/homepages/21/d...')
+#8 /homepages/21/d738916443/htdocs/woop/index.php(17): require('/homepages/21/d...')
+#9 {main}
+  thrown in /homepages/21/d738916443/htdocs/woop/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/documents/class-wcpdf-invoice.php on line 19
+
+2023-03-21T07:04:06+00:00 CRITICAL Uncaught Error: Class "WPO\WC\PDF_Invoices\Documents\Order_Document_Methods" not found in /homepages/21/d738916443/htdocs/woop/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/documents/class-wcpdf-invoice.php:19
+Stack trace:
+#0 /homepages/21/d738916443/htdocs/woop/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/class-wcpdf-documents.php(57): include()
+#1 /homepages/21/d738916443/htdocs/woop/wp-includes/class-wp-hook.php(308): WPO\WC\PDF_Invoices\Documents->init()
+#2 /homepages/21/d738916443/htdocs/woop/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#3 /homepages/21/d738916443/htdocs/woop/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /homepages/21/d738916443/htdocs/woop/wp-settings.php(617): do_action()
+#5 /homepages/21/d738916443/htdocs/woop/wp-config.php(98): require_once('/homepages/21/d...')
+#6 /homepages/21/d738916443/htdocs/woop/wp-load.php(50): require_once('/homepages/21/d...')
+#7 /homepages/21/d738916443/htdocs/woop/wp-admin/admin-ajax.php(22): require_once('/homepages/21/d...')
+#8 {main}
+  thrown in /homepages/21/d738916443/htdocs/woop/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/documents/class-wcpdf-invoice.php on line 19
+
+2023-03-21T07:04:06+00:00 CRITICAL Uncaught Error: Class "WPO\WC\PDF_Invoices\Documents\Order_Document_Methods" not found in /homepages/21/d738916443/htdocs/woop/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/documents/class-wcpdf-invoice.php:19
+Stack trace:
+#0 /homepages/21/d738916443/htdocs/woop/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/class-wcpdf-documents.php(57): include()
+#1 /homepages/21/d738916443/htdocs/woop/wp-includes/class-wp-hook.php(308): WPO\WC\PDF_Invoices\Documents->init()
+#2 /homepages/21/d738916443/htdocs/woop/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#3 /homepages/21/d738916443/htdocs/woop/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /homepages/21/d738916443/htdocs/woop/wp-settings.php(617): do_action()
+#5 /homepages/21/d738916443/htdocs/woop/wp-config.php(98): require_once('/homepages/21/d...')
+#6 /homepages/21/d738916443/htdocs/woop/wp-load.php(50): require_once('/homepages/21/d...')
+#7 /homepages/21/d738916443/htdocs/woop/wp-blog-header.php(13): require_once('/homepages/21/d...')
+#8 /homepages/21/d738916443/htdocs/woop/index.php(17): require('/homepages/21/d...')
+#9 {main}
+  thrown in /homepages/21/d738916443/htdocs/woop/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/documents/class-wcpdf-invoice.php on line 19
+
+2023-03-21T07:04:07+00:00 CRITICAL Unclosed '{' on line 524 in /homepages/21/d738916443/htdocs/woop/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/documents/abstract-wcpdf-order-document-methods.php on line 526
+
+2023-03-21T07:10:31+00:00 CRITICAL Uncaught Error: Class "WPO\WC\PDF_Invoices\Documents\Order_Document_Methods" not found in /homepages/21/d738916443/htdocs/woop/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/documents/class-wcpdf-invoice.php:19
+Stack trace:
+#0 /homepages/21/d738916443/htdocs/woop/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/class-wcpdf-documents.php(57): include()
+#1 /homepages/21/d738916443/htdocs/woop/wp-includes/class-wp-hook.php(308): WPO\WC\PDF_Invoices\Documents->init()
+#2 /homepages/21/d738916443/htdocs/woop/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#3 /homepages/21/d738916443/htdocs/woop/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /homepages/21/d738916443/htdocs/woop/wp-settings.php(617): do_action()
+#5 /homepages/21/d738916443/htdocs/woop/wp-config.php(98): require_once('/homepages/21/d...')
+#6 /homepages/21/d738916443/htdocs/woop/wp-load.php(50): require_once('/homepages/21/d...')
+#7 /homepages/21/d738916443/htdocs/woop/wp-admin/admin-ajax.php(22): require_once('/homepages/21/d...')
+#8 {main}
+  thrown in /homepages/21/d738916443/htdocs/woop/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/documents/class-wcpdf-invoice.php on line 19
+
+2023-03-21T07:12:11+00:00 CRITICAL Uncaught Error: Class "WPO\WC\PDF_Invoices\Documents\Order_Document_Methods" not found in /homepages/21/d738916443/htdocs/woop/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/documents/class-wcpdf-invoice.php:19
+Stack trace:
+#0 /homepages/21/d738916443/htdocs/woop/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/class-wcpdf-documents.php(57): include()
+#1 /homepages/21/d738916443/htdocs/woop/wp-includes/class-wp-hook.php(308): WPO\WC\PDF_Invoices\Documents->init()
+#2 /homepages/21/d738916443/htdocs/woop/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#3 /homepages/21/d738916443/htdocs/woop/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /homepages/21/d738916443/htdocs/woop/wp-settings.php(617): do_action()
+#5 /homepages/21/d738916443/htdocs/woop/wp-config.php(98): require_once('/homepages/21/d...')
+#6 /homepages/21/d738916443/htdocs/woop/wp-load.php(50): require_once('/homepages/21/d...')
+#7 /homepages/21/d738916443/htdocs/woop/wp-blog-header.php(13): require_once('/homepages/21/d...')
+#8 /homepages/21/d738916443/htdocs/woop/index.php(17): require('/homepages/21/d...')
+#9 {main}
+  thrown in /homepages/21/d738916443/htdocs/woop/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/documents/class-wcpdf-invoice.php on line 19
+

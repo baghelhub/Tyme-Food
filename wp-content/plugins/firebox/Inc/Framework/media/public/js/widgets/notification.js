@@ -1,0 +1,2 @@
+document.addEventListener("DOMContentLoaded",function(e){document.addEventListener("click",function(e){var t,o,n,i,a;e.target.closest(".fpf-notification-close")&&(t=e.target.closest(".fpf-notification"),e.preventDefault(),t.classList.contains("readonly")||((e=t.dataset.cookieId)&&(e=e,o=1,n=t.dataset.closeCookieDays,a="",n&&((i=new Date).setTime(i.getTime()+24*n*60*60*1e3),a="; expires="+i.toUTCString()),document.cookie=e+"="+(o||"")+a+"; path=/; secure"),t.remove()))})});
+

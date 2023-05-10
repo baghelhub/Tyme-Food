@@ -1,0 +1,324 @@
+/* @media screen and (max-width: 1025px) {
+    .main-navigation #menu-item-1488 {
+       margin-left: unset !important;
+  }
+ } */
+
+@media screen and (max-width: 720px) {
+    .banner-heading p.elementor-heading-title.elementor-size-xl {
+        font-size: 26px !important;
+        line-height: 30px !important;
+    }
+}
+
+@media (max-width: 767px) {
+    .elementor-6 .elementor-element.elementor-element-2095c9f>.elementor-element-populated {
+        margin: 0px !important;
+    }
+}
+
+
+/* @media screen and (max-width: 1116px){
+        .main-navigation #menu-item-1498{
+            float:unset!important;
+        }
+            .main-navigation#menu-item-1488{
+            margin-left:unset!important;
+        }
+            
+        
+ } */
+
+/* @media screen and (min-width: 1024px){
+        .main-navigation #menu-item-1488{
+            margin-left: 6px!important;
+        }
+        .main-navigation #menu-item-1496{
+            margin-left: 0px!important;
+        }
+            
+ } */
+/* @media screen and (min-width: 1326px){
+        .main-navigation #menu-item-1488 {
+            margin-left: 333px!important;
+        }
+        .main-navigation #menu-item-1496{
+            margin-left: 208px!important;
+        }
+        
+ } */
+
+
+/*start global css {khaleel}*/
+
+/*end global css by {khaleel}*/
+@media (min-width: 1024px) {
+    .site-header .wrapper {
+        padding: 0 40px !important;
+        width: 100% !important;
+        max-width: 100% !important;
+    }
+}
+
+
+/* about us css  by amit */
+
+@media screen and (max-width: 480px) {
+    .elementor-element-001e17f .elementor-widget-container {
+        margin: 0px !important;
+    }
+
+    .elementor-element-001e17f .elementor-widget-container h1 {
+        font-size: 20px !important;
+    }
+
+    .page-id-95 .elementor-element-327f52f {
+        margin: 40px !important;
+    }
+
+    .cus_catfilter_cl .wcpscwc-product-slider button.slick-next {
+        padding: 18px !important;
+       }
+       .cus_catfilter_cl .wcpscwc-product-slider button.slick-prev {
+         padding: 18px !important;
+        }
+}
+
+@media screen and (max-width: 760px) {
+    .cus-platecl-cl h1 {
+        text-align: right;
+        font-size: 16px !important;
+    }
+
+    .cus-platecl-cl a {
+        font-size: 11px !important;
+        padding-top: 8px !important;
+        padding-bottom: 8px !important;
+        margin-left: 11rem !important;
+        margin-top: 3px;
+    }
+
+    .cus-platecl-cl p {
+        text-align: right;
+        line-height: 15px;
+        font-size: 14px;
+    }
+
+    .cus-flexi-cl {
+        margin-bottom: 0px !important;
+    }
+
+    .elementor-element-777d27ff {
+        margin-bottom: 0px !important;
+    }
+
+    .cus-centerplate-cl {
+        margin-top: 20px !important;
+    }
+}
+
+@media screen and (min-width: 700px) {
+    .page-id-95 .cus_catfilter_cl .elementor-tabs-wrapper {
+
+    border-bottom: 1px solid #8080803b;
+        margin-left: 56%;
+    }
+}
+
+@media screen and (max-width: 680px) {
+    .page-id-95 .cus_catfilter_cl .elementor-tabs-wrapper {
+        display: inline-block;
+        letter-spacing: 1px;
+        word-spacing: 20px;
+        border-bottom: 1px solid #8080803b;
+  }
+  .page-id-95 .cus_catfilter_cl .elementor-tab-title {
+  font-size: 10px !important;
+  }
+  .page-id-95 .cus_catfilter_cl .elementor-tab-mobile-title{
+    display: none;
+  }
+  .page-id-95 .cus_catfilter_cl .elementor-tab-desktop-title {
+    padding-left: 5px !important;
+    padding-right: 5px !important;
+    padding-bottom: 5px !important;
+
+  }
+}
+
+/* end about us*/
+
+/* css for career page */
+@media screen and (max-width: 768px) {
+    .cus-top-imgcl img{
+        width: 27% !important;
+    }
+
+}
+@media screen and (min-width: 480px) {
+.page-id-95 .sp-wqv-content img {
+    height: 100% !important;
+  }
+  .page-id-95 .wqv-product-images {
+    width: 70% !important;
+  }
+  .cus_catfilter_cl li.type-product {
+    height: 24rem;
+  }
+
+}
+
+
+
+@media (max-width: 767px) {
+    #sp-wqv-view-button.sp-wqv-view-button.button {
+      font-size: 18px;
+    }
+  }
+
+  @media (max-width: 479px)  {
+  .cus_catfilter_cl li.type-product {
+    height: 26rem;
+  }
+}
+/* end career */
+
+
+/* dharmendra css blog page */
+@media (max-width: 768px) {
+    .elementor-9352 .elementor-element.elementor-element-42b69ee{
+        padding: 0 20px;
+    }
+        .elementor-9352 .elementor-element.elementor-element-42b69ee > .elementor-element-populated {
+        padding:0px;
+    }
+    .elementor-9352 .elementor-element.elementor-element-8b36756 > .elementor-widget-container {
+      --e-transform-rotateZ: 0deg;
+        padding: 0px 0px 35px 0px;	
+    }
+    .elementor-element-49d53a0{
+    border-top: 1px solid rgba(29,29,27,.05);
+        }
+    
+    .elementor-9352 .elementor-element.elementor-element-e071bd3 {
+        overflow: hidden;
+        transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+        padding: 37px 0px 0px 0px;
+    }
+    .elementor-column-gap-default>.elementor-column>.elementor-element-populated {
+        padding: 0px;
+    }
+    .cus-blogfilter-cl .even-grid-item {
+        margin-bottom: 40px!important;
+    }
+    .elementor-9352 .elementor-element.elementor-element-e57749b > .elementor-widget-container {
+        padding: 0 20px;
+    }	
+    .elementor-9352 .elementor-element.elementor-element-003bfa1 .elementor-divider {
+        display: none;
+    }
+    .main-navigation:after {
+        content: '';
+        background: url(http://woop.einsteinnephew.com/wp-content/uploads/2023/02/blog_bg_title-1.png) no-repeat 0 0;
+        position: absolute;
+        right: 0;
+        top: 0;
+        width: 121px;
+        height: 118px;
+    }	
+    }
+    
+    
+    
+    @media screen and (max-width: 991px){
+    input#wpforms-1137-field_1, input#wpforms-1137-field_2 {
+        width: 100%!important;
+    }
+        #wpforms-form-1137 {
+        display: block!important;
+    }
+    #wpforms-form-1137 .wpforms-field-container {
+        display: block!important;
+    }	
+    .newsletter-section h2, .widget_nav_menu h2, .as-seen-in h3, .footer-help-section h2, .footer-social-section h2 {
+        text-align: left;
+    }
+        button#wpforms-submit-1137 {
+        width: 100%!important;
+    }
+    footer.site-footer .hentry:nth-child(1) {
+        width: 100% !important;
+    }	
+        aside#nav_menu-2 {
+        border-top: 1px solid rgba(0,0,0,.06);
+        padding-top: 20px;
+    }
+        .newsletter-section h2, .widget_nav_menu h2, .as-seen-in h3, .footer-help-section h2, .footer-social-section h2 {
+        text-align: left;
+    }
+    footer.site-footer .hentry:nth-child(2) {
+        width: 100% !important;
+        padding-left: unset;
+    }
+    .MobileArrow {
+        position: absolute;
+        right: 20px;
+        font-size: 20px;
+    }	
+    #block-15,#block-13 {
+        border-top: 1px solid rgba(0,0,0,.06);
+    }
+    footer.site-footer .hentry:nth-child(3),footer.site-footer .hentry:nth-child(4) {
+        width: 100% !important;
+    }	
+    .menu-footer-menu-first-container ul, .HelpLink ul {
+        display: none;
+    }
+    .footer-widgets-area .hentry {
+        margin-bottom: unset;
+    }
+    .footer-widgets-area.col-2 .hentry:nth-child(odd), .footer-widgets-area.col-4 .hentry:nth-child(odd) {
+        padding-right: 0px;
+    }
+    .rt-pagination .pagination-list>.active>span{
+    background-color: #29401c;
+    border-color: #29401c;
+        }
+        .elementor-col-16{
+            display:none;
+            transition: display 4s;	
+        }
+        .dd-block{display:block;
+      }
+    
+      .arrow-btn{
+        display: inline-block;
+        float: right;
+        margin-right: 20px;
+      }
+    
+    .pre-add{
+        display: block;
+        color: #151515;
+        margin: 0 0 0 20px;
+        font-weight: 300;
+        font-size:16px;
+        letter-spacing: .25px;
+        text-transform: uppercase;
+        position: relative;
+        padding:10px;
+    
+    }
+    }
+
+    /* end */
+
+    /* silk slider  */
+    @media (max-width: 420px) {
+    .How-It-works-main-section .slick-dots li button:before {
+        margin-top: 44px;
+    }
+}
+
+
+    /* end */

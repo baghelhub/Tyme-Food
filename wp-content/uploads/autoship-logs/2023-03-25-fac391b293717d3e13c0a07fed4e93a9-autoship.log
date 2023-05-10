@@ -1,0 +1,4 @@
+[03-25-2023 @ 10:34:04] 401 GET Request Error:  - Error Details: You are not authorized to access this resource // Endpoint Details: https://api.qpilot.cloud/Sites/
+[03-25-2023 @ 10:34:04] Autoship Orders - 401 Site Settings Retrieval Failed. Additional Details: You are not authorized to access this resource
+[03-25-2023 @ 10:36:00] 401 GET Request Error:  - Error Details: You are not authorized to access this resource // Endpoint Details: https://api.qpilot.cloud/Sites/
+[03-25-2023 @ 10:36:00] Autoship Orders - 401 Site Settings Retrieval Failed. Additional Details: You are not authorized to access this resource

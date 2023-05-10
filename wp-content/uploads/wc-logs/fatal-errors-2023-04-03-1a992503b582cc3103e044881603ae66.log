@@ -1,0 +1,114 @@
+2023-04-03T12:14:34+00:00 CRITICAL Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in D:\xampp\htdocs\tymenew\wp-content\plugins\mobile-login-woocommerce\includes\class-xoo-ml-geolocation.php:25
+Stack trace:
+#0 D:\xampp\htdocs\tymenew\wp-content\plugins\mobile-login-woocommerce\includes\class-xoo-ml-geolocation.php(25): array_map('sanitize_text_f...', NULL)
+#1 D:\xampp\htdocs\tymenew\wp-content\plugins\mobile-login-woocommerce\includes\class-xoo-ml-frontend.php(50): Xoo_Ml_Geolocation::get_data()
+#2 D:\xampp\htdocs\tymenew\wp-includes\class-wp-hook.php(308): Xoo_Ml_Phone_Frontend->fetch_geolocation('')
+#3 D:\xampp\htdocs\tymenew\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 D:\xampp\htdocs\tymenew\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 D:\xampp\htdocs\tymenew\wp-settings.php(623): do_action('init')
+#6 D:\xampp\htdocs\tymenew\wp-config.php(96): require_once('D:\\xampp\\htdocs...')
+#7 D:\xampp\htdocs\tymenew\wp-load.php(50): require_once('D:\\xampp\\htdocs...')
+#8 D:\xampp\htdocs\tymenew\wp-admin\admin-ajax.php(22): require_once('D:\\xampp\\htdocs...')
+#9 {main}
+  thrown in D:\xampp\htdocs\tymenew\wp-content\plugins\mobile-login-woocommerce\includes\class-xoo-ml-geolocation.php on line 25
+
+2023-04-03T12:17:30+00:00 CRITICAL Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in D:\xampp\htdocs\tymenew\wp-content\plugins\mobile-login-woocommerce\includes\class-xoo-ml-geolocation.php:25
+Stack trace:
+#0 D:\xampp\htdocs\tymenew\wp-content\plugins\mobile-login-woocommerce\includes\class-xoo-ml-geolocation.php(25): array_map('sanitize_text_f...', NULL)
+#1 D:\xampp\htdocs\tymenew\wp-content\plugins\mobile-login-woocommerce\includes\class-xoo-ml-frontend.php(50): Xoo_Ml_Geolocation::get_data()
+#2 D:\xampp\htdocs\tymenew\wp-includes\class-wp-hook.php(308): Xoo_Ml_Phone_Frontend->fetch_geolocation('')
+#3 D:\xampp\htdocs\tymenew\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 D:\xampp\htdocs\tymenew\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 D:\xampp\htdocs\tymenew\wp-settings.php(623): do_action('init')
+#6 D:\xampp\htdocs\tymenew\wp-config.php(96): require_once('D:\\xampp\\htdocs...')
+#7 D:\xampp\htdocs\tymenew\wp-load.php(50): require_once('D:\\xampp\\htdocs...')
+#8 D:\xampp\htdocs\tymenew\wp-admin\admin-ajax.php(22): require_once('D:\\xampp\\htdocs...')
+#9 {main}
+  thrown in D:\xampp\htdocs\tymenew\wp-content\plugins\mobile-login-woocommerce\includes\class-xoo-ml-geolocation.php on line 25
+
+2023-04-03T12:22:03+00:00 CRITICAL Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, null given in D:\xampp\htdocs\tymenew\wp-content\plugins\mobile-login-woocommerce\includes\class-xoo-ml-geolocation.php:25
+Stack trace:
+#0 D:\xampp\htdocs\tymenew\wp-content\plugins\mobile-login-woocommerce\includes\class-xoo-ml-geolocation.php(25): array_map('sanitize_text_f...', NULL)
+#1 D:\xampp\htdocs\tymenew\wp-content\plugins\mobile-login-woocommerce\includes\class-xoo-ml-frontend.php(50): Xoo_Ml_Geolocation::get_data()
+#2 D:\xampp\htdocs\tymenew\wp-includes\class-wp-hook.php(308): Xoo_Ml_Phone_Frontend->fetch_geolocation('')
+#3 D:\xampp\htdocs\tymenew\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 D:\xampp\htdocs\tymenew\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 D:\xampp\htdocs\tymenew\wp-settings.php(623): do_action('init')
+#6 D:\xampp\htdocs\tymenew\wp-config.php(96): require_once('D:\\xampp\\htdocs...')
+#7 D:\xampp\htdocs\tymenew\wp-load.php(50): require_once('D:\\xampp\\htdocs...')
+#8 D:\xampp\htdocs\tymenew\wp-admin\admin-ajax.php(22): require_once('D:\\xampp\\htdocs...')
+#9 {main}
+  thrown in D:\xampp\htdocs\tymenew\wp-content\plugins\mobile-login-woocommerce\includes\class-xoo-ml-geolocation.php on line 25
+
+2023-04-03T16:37:35+00:00 CRITICAL Uncaught Error: Object of class WP_Query could not be converted to string in D:\xampp\htdocs\tymenew\wp-content\themes\food-restro-child\functions.php:89
+Stack trace:
+#0 D:\xampp\htdocs\tymenew\wp-settings.php(591): include()
+#1 D:\xampp\htdocs\tymenew\wp-config.php(96): require_once('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\tymenew\wp-load.php(50): require_once('D:\\xampp\\htdocs...')
+#3 D:\xampp\htdocs\tymenew\wp-blog-header.php(13): require_once('D:\\xampp\\htdocs...')
+#4 D:\xampp\htdocs\tymenew\index.php(17): require('D:\\xampp\\htdocs...')
+#5 {main}
+  thrown in D:\xampp\htdocs\tymenew\wp-content\themes\food-restro-child\functions.php on line 89
+
+2023-04-03T16:37:41+00:00 CRITICAL Uncaught Error: Object of class WP_Query could not be converted to string in D:\xampp\htdocs\tymenew\wp-content\themes\food-restro-child\functions.php:89
+Stack trace:
+#0 D:\xampp\htdocs\tymenew\wp-settings.php(591): include()
+#1 D:\xampp\htdocs\tymenew\wp-config.php(96): require_once('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\tymenew\wp-load.php(50): require_once('D:\\xampp\\htdocs...')
+#3 D:\xampp\htdocs\tymenew\wp-blog-header.php(13): require_once('D:\\xampp\\htdocs...')
+#4 D:\xampp\htdocs\tymenew\index.php(17): require('D:\\xampp\\htdocs...')
+#5 {main}
+  thrown in D:\xampp\htdocs\tymenew\wp-content\themes\food-restro-child\functions.php on line 89
+
+2023-04-03T16:44:04+00:00 CRITICAL Uncaught Error: Object of class WP_User could not be converted to string in D:\xampp\htdocs\tymenew\wp-content\themes\food-restro-child\functions.php:89
+Stack trace:
+#0 D:\xampp\htdocs\tymenew\wp-settings.php(591): include()
+#1 D:\xampp\htdocs\tymenew\wp-config.php(96): require_once('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\tymenew\wp-load.php(50): require_once('D:\\xampp\\htdocs...')
+#3 D:\xampp\htdocs\tymenew\wp-blog-header.php(13): require_once('D:\\xampp\\htdocs...')
+#4 D:\xampp\htdocs\tymenew\index.php(17): require('D:\\xampp\\htdocs...')
+#5 {main}
+  thrown in D:\xampp\htdocs\tymenew\wp-content\themes\food-restro-child\functions.php on line 89
+
+2023-04-03T16:45:59+00:00 CRITICAL Uncaught Error: Undefined constant "WP_User" in D:\xampp\htdocs\tymenew\wp-content\themes\food-restro-child\functions.php:83
+Stack trace:
+#0 D:\xampp\htdocs\tymenew\wp-settings.php(591): include()
+#1 D:\xampp\htdocs\tymenew\wp-config.php(96): require_once('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\tymenew\wp-load.php(50): require_once('D:\\xampp\\htdocs...')
+#3 D:\xampp\htdocs\tymenew\wp-blog-header.php(13): require_once('D:\\xampp\\htdocs...')
+#4 D:\xampp\htdocs\tymenew\index.php(17): require('D:\\xampp\\htdocs...')
+#5 {main}
+  thrown in D:\xampp\htdocs\tymenew\wp-content\themes\food-restro-child\functions.php on line 83
+
+2023-04-03T16:46:14+00:00 CRITICAL Uncaught Error: Undefined constant "WP_User" in D:\xampp\htdocs\tymenew\wp-content\themes\food-restro-child\functions.php:83
+Stack trace:
+#0 D:\xampp\htdocs\tymenew\wp-settings.php(591): include()
+#1 D:\xampp\htdocs\tymenew\wp-config.php(96): require_once('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\tymenew\wp-load.php(50): require_once('D:\\xampp\\htdocs...')
+#3 D:\xampp\htdocs\tymenew\wp-blog-header.php(13): require_once('D:\\xampp\\htdocs...')
+#4 D:\xampp\htdocs\tymenew\index.php(17): require('D:\\xampp\\htdocs...')
+#5 {main}
+  thrown in D:\xampp\htdocs\tymenew\wp-content\themes\food-restro-child\functions.php on line 83
+
+2023-04-03T16:46:14+00:00 CRITICAL Uncaught Error: Undefined constant "WP_User" in D:\xampp\htdocs\tymenew\wp-content\themes\food-restro-child\functions.php:83
+Stack trace:
+#0 D:\xampp\htdocs\tymenew\wp-settings.php(591): include()
+#1 D:\xampp\htdocs\tymenew\wp-config.php(96): require_once('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\tymenew\wp-load.php(50): require_once('D:\\xampp\\htdocs...')
+#3 D:\xampp\htdocs\tymenew\wp-blog-header.php(13): require_once('D:\\xampp\\htdocs...')
+#4 D:\xampp\htdocs\tymenew\index.php(17): require('D:\\xampp\\htdocs...')
+#5 {main}
+  thrown in D:\xampp\htdocs\tymenew\wp-content\themes\food-restro-child\functions.php on line 83
+
+2023-04-03T16:46:14+00:00 CRITICAL Uncaught Error: Undefined constant "WP_User" in D:\xampp\htdocs\tymenew\wp-content\themes\food-restro-child\functions.php:83
+Stack trace:
+#0 D:\xampp\htdocs\tymenew\wp-settings.php(591): include()
+#1 D:\xampp\htdocs\tymenew\wp-config.php(96): require_once('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\tymenew\wp-load.php(50): require_once('D:\\xampp\\htdocs...')
+#3 D:\xampp\htdocs\tymenew\wp-blog-header.php(13): require_once('D:\\xampp\\htdocs...')
+#4 D:\xampp\htdocs\tymenew\index.php(17): require('D:\\xampp\\htdocs...')
+#5 {main}
+  thrown in D:\xampp\htdocs\tymenew\wp-content\themes\food-restro-child\functions.php on line 83
+
+2023-04-03T17:30:33+00:00 CRITICAL Cannot redeclare xoo_ml_get_user_phone() (previously declared in D:\xampp\htdocs\tymenew\wp-content\plugins\mobile-login-woocommerce\includes\xoo-ml-functions.php:67) in D:\xampp\htdocs\tymenew\wp-content\themes\food-restro-child\functions.php on line 83
+

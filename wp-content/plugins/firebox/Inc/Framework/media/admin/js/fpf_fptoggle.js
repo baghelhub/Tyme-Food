@@ -1,0 +1,2 @@
+var FPF_FPToggle=function(){function e(){this.init()}var t=e.prototype;return t.init=function(){document.addEventListener("click",function(e){this.handleValueChange(e)}.bind(this))},t.handleValueChange=function(e){var t,e=e.target.closest(".fpf-fptoggle-btn");e&&(t=e.previousElementSibling.previousElementSibling,e.previousElementSibling.checked?t.setAttribute("name",t.getAttribute("data-name")):t.removeAttribute("name"))},e}();document.addEventListener("DOMContentLoaded",function(e){new FPF_FPToggle});
+

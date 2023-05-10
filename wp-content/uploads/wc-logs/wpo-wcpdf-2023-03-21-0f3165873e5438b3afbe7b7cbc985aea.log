@@ -1,0 +1,3 @@
+2023-03-21T06:02:02+00:00 INFO Template setting migrated from /homepages/21/d738916443/htdocs/woop/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/templates/Simple to default/Simple
+2023-03-21T06:02:05+00:00 CRITICAL Table 'dbs9833728.wp_wcpdf_invoice_number' doesn't exist
+2023-03-21T06:06:25+00:00 CRITICAL Table 'dbs9833728.wp_wcpdf_packing_slip_number' doesn't exist
