@@ -1,1 +1,0 @@
-2023-03-28T13:41:38+00:00 CRITICAL Fatal error: Call to undefined method WPO\WC\PDF_Invoices\Documents\Invoice::billing_name() (/homepages/21/d738916443/htdocs/woop/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/templates/Simple/invoice.php:34)
